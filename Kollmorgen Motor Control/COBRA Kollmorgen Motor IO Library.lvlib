@@ -4,11 +4,15 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">402685952</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
-	<Item Name="Reinitialize.vi" Type="VI" URL="../Reinitialize.vi"/>
-	<Item Name="Target Motor Command Options.ctl" Type="VI" URL="../Target Motor Command Options.ctl"/>
-	<Item Name="Target Motor Command.vi" Type="VI" URL="../Target Motor Command.vi"/>
-	<Item Name="Target Motor Instructions.ctl" Type="VI" URL="../Target Motor Instructions.ctl"/>
-	<Item Name="Target Motor Sensors.ctl" Type="VI" URL="../Target Motor Sensors.ctl"/>
-	<Item Name="Target Motor Start and Stop.vi" Type="VI" URL="../Target Motor Start and Stop.vi"/>
-	<Item Name="Target Read Motor Sensors.vi" Type="VI" URL="../Target Read Motor Sensors.vi"/>
+	<Item Name="Controls and Typedefs" Type="Folder">
+		<Item Name="Target Motor Command Options.ctl" Type="VI" URL="../Target Motor Command Options.ctl"/>
+		<Item Name="Target Motor Instructions.ctl" Type="VI" URL="../Target Motor Instructions.ctl"/>
+		<Item Name="Target Motor Sensors.ctl" Type="VI" URL="../Target Motor Sensors.ctl"/>
+	</Item>
+	<Item Name="Virtual Instruments" Type="Folder">
+		<Item Name="Reinitialize.vi" Type="VI" URL="../Reinitialize.vi"/>
+		<Item Name="Target Motor Command.vi" Type="VI" URL="../Target Motor Command.vi"/>
+		<Item Name="Target Motor Start and Stop.vi" Type="VI" URL="../Target Motor Start and Stop.vi"/>
+		<Item Name="Target Read Motor Sensors.vi" Type="VI" URL="../Target Read Motor Sensors.vi"/>
+	</Item>
 </Library>
