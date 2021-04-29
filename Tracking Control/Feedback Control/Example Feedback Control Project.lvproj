@@ -22,7 +22,14 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="COBRA Feedback Control Library.lvlib" Type="Library" URL="../COBRA Feedback Control Library.lvlib"/>
 		<Item Name="Example Main Program.vi" Type="VI" URL="../Example Main Program.vi"/>
-		<Item Name="Dependencies" Type="Dependencies"/>
+		<Item Name="Example Plant Dynamics.vi" Type="VI" URL="../Example Plant Dynamics.vi"/>
+		<Item Name="Dependencies" Type="Dependencies">
+			<Item Name="vi.lib" Type="Folder">
+				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
+				<Item Name="NI_PtbyPt.lvlib" Type="Library" URL="/&lt;vilib&gt;/ptbypt/NI_PtbyPt.lvlib"/>
+			</Item>
+			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
+		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
 </Project>
