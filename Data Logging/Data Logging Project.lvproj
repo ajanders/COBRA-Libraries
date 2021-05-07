@@ -6,6 +6,7 @@
 	<Property Name="varPersistentID:{61C9859F-4FAF-4F53-80E6-C22A1A2B8267}" Type="Ref">/My Computer/COBRA Logging Library.lvlib/Variables/Target Period (uS)</Property>
 	<Property Name="varPersistentID:{6D550C3F-FDC2-4EED-9F83-15B8E6D1F07A}" Type="Ref">/My Computer/COBRA Logging Library.lvlib/Variables/Target File Path</Property>
 	<Property Name="varPersistentID:{82E266EA-C0FF-4633-91FD-F2FECA3CBCC0}" Type="Ref">/My Computer/COBRA Logging Library.lvlib/Variables/Target File Name</Property>
+	<Property Name="varPersistentID:{A70AF9AE-BC0B-4760-8366-F372B807074D}" Type="Ref">/My Computer/COBRA Logging Library.lvlib/Variables/Target Logging Trigger</Property>
 	<Property Name="varPersistentID:{BDEBCC85-42B9-4D68-B8B2-23B6ABF6959F}" Type="Ref">/My Computer/COBRA Logging Library.lvlib/Variables/Target Metadata File Headers</Property>
 	<Property Name="varPersistentID:{D529BBD6-3E9B-4AB1-A7E0-B9B37F29636B}" Type="Ref">/My Computer/COBRA Logging Library.lvlib/Variables/Target Logging Duration (s)</Property>
 	<Property Name="varPersistentID:{F19D8D2C-E5E0-44DB-8811-DA6BB25E4A1E}" Type="Ref">/My Computer/COBRA Logging Library.lvlib/Variables/Target Metadata</Property>

@@ -53,13 +53,28 @@ C:/TestLog</Property>
 			<Property Name="typeDesc" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!I*!!!!"A!A!!!!!!"!""!-0````]'5X2S;7ZH!!!"!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="Target Logging Duration (s)" Type="Variable">
-			<Property Name="featurePacks" Type="Str">Global</Property>
+			<Property Name="featurePacks" Type="Str">Global,Real-Time Features</Property>
 			<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
 			<Property Name="Network:UseBinding" Type="Str">False</Property>
 			<Property Name="Network:UseBuffering" Type="Str">False</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
+			<Property Name="Real-Time Features:ApplyNetworkConfig" Type="Str">False</Property>
+			<Property Name="Real-Time Features:BufferLength" Type="Str">1</Property>
+			<Property Name="Real-Time Features:UseBuffering" Type="Str">False</Property>
 			<Property Name="type" Type="Str">Global</Property>
 			<Property Name="typeDesc" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"A!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+		</Item>
+		<Item Name="Target Logging Trigger" Type="Variable">
+			<Property Name="featurePacks" Type="Str">Global,Real-Time Features</Property>
+			<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
+			<Property Name="Network:UseBinding" Type="Str">False</Property>
+			<Property Name="Network:UseBuffering" Type="Str">False</Property>
+			<Property Name="numTypedefs" Type="UInt">0</Property>
+			<Property Name="Real-Time Features:ApplyNetworkConfig" Type="Str">False</Property>
+			<Property Name="Real-Time Features:BufferLength" Type="Str">1</Property>
+			<Property Name="Real-Time Features:UseBuffering" Type="Str">False</Property>
+			<Property Name="type" Type="Str">Global</Property>
+			<Property Name="typeDesc" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"A!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="Target Metadata" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Global</Property>
@@ -92,9 +107,14 @@ C:/TestLog</Property>
 		</Item>
 	</Item>
 	<Item Name="Virtual Instruments" Type="Folder">
-		<Item Name="Target Logger File Writer.vi" Type="VI" URL="../Target Logger File Writer.vi"/>
-		<Item Name="Target Logger State Manager.vi" Type="VI" URL="../Target Logger State Manager.vi"/>
-		<Item Name="Target Logging Array Manager.vi" Type="VI" URL="../Target Logging Array Manager.vi"/>
-		<Item Name="Target Standard Logger.vi" Type="VI" URL="../Target Standard Logger.vi"/>
+		<Item Name="For Logging Loop" Type="Folder">
+			<Item Name="Target Logger File Writer.vi" Type="VI" URL="../Target Logger File Writer.vi"/>
+			<Item Name="Target Logger State Manager.vi" Type="VI" URL="../Target Logger State Manager.vi"/>
+			<Item Name="Target Logging Array Manager.vi" Type="VI" URL="../Target Logging Array Manager.vi"/>
+			<Item Name="Target Standard Logger.vi" Type="VI" URL="../Target Standard Logger.vi"/>
+		</Item>
+		<Item Name="For Timed Loop" Type="Folder">
+			<Item Name="Target Logging Trigger Detection.vi" Type="VI" URL="../Target Logging Trigger Detection.vi"/>
+		</Item>
 	</Item>
 </Library>
