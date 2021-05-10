@@ -27,9 +27,9 @@
 			<Property Name="Network:UseBuffering" Type="Str">False</Property>
 			<Property Name="numTypedefs" Type="UInt">1</Property>
 			<Property Name="type" Type="Str">Global</Property>
-			<Property Name="typedefName1" Type="Str">COBRA Logging Library.lvlib:File Headers Array.ctl</Property>
+			<Property Name="typedefName1" Type="Str">COBRA Logging and Loop Timing Library.lvlib:File Headers Array.ctl</Property>
 			<Property Name="typedefPath1" Type="PathRel">../File Headers Array.ctl</Property>
-			<Property Name="typeDesc" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#"@1!!!"A!A!!!!!!#!""!-0````]'5X2S;7ZH!!":!0%!!!!!!!!!!BN$4U*313"-&lt;W&gt;H;7ZH)%RJ9H*B=HEO&lt;(:M;7)72GFM:3"):7&amp;E:8*T)%&amp;S=G&amp;Z,G.U&lt;!!?1%!!!@````]!!!R';7RF)%BF972F=H-!!!%!!1!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#2D1!!!"A!A!!!!!!#!""!-0````]'5X2S;7ZH!!"J!0%!!!!!!!!!!CN$4U*313"-&lt;W&gt;H;7ZH)'&amp;O:#"-&lt;W^Q)&amp;2J&lt;7FO:S"-;7*S98*Z,GRW&lt;'FC&amp;E:J&lt;'5A3'6B:'6S=S""=H*B?3ZD&gt;'Q!(E"!!!(`````!!!-2GFM:3"):7&amp;E:8*T!!!"!!%!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="Target File Name" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Global</Property>
@@ -92,9 +92,9 @@ C:/TestLog</Property>
 			<Property Name="Network:UseBuffering" Type="Str">False</Property>
 			<Property Name="numTypedefs" Type="UInt">1</Property>
 			<Property Name="type" Type="Str">Global</Property>
-			<Property Name="typedefName1" Type="Str">COBRA Logging Library.lvlib:Target Metadata Headers Array.ctl</Property>
+			<Property Name="typedefName1" Type="Str">COBRA Logging and Loop Timing Library.lvlib:Target Metadata Headers Array.ctl</Property>
 			<Property Name="typedefPath1" Type="PathRel">../Target Metadata Headers Array.ctl</Property>
-			<Property Name="typeDesc" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#1D!!!!"A!A!!!!!!#!""!-0````]'5X2S;7ZH!!"I!0%!!!!!!!!!!BN$4U*313"-&lt;W&gt;H;7ZH)%RJ9H*B=HEO&lt;(:M;7)B6'&amp;S:W6U)%VF&gt;'&amp;E982B)%BF972F=H-A18*S98EO9X2M!#*!1!!"`````Q!!%%VF&gt;'&amp;E982B)%BF972F=H-!!!%!!1!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#AH!!!!"A!A!!!!!!#!""!-0````]'5X2S;7ZH!!"Y!0%!!!!!!!!!!CN$4U*313"-&lt;W&gt;H;7ZH)'&amp;O:#"-&lt;W^Q)&amp;2J&lt;7FO:S"-;7*S98*Z,GRW&lt;'FC)62B=G&gt;F&gt;#".:82B:'&amp;U93"):7&amp;E:8*T)%&amp;S=G&amp;Z,G.U&lt;!!C1%!!!@````]!!"".:82B:'&amp;U93"):7&amp;E:8*T!!!"!!%!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="Target Period (uS)" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Global</Property>
