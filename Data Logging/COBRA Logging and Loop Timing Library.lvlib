@@ -9,6 +9,7 @@
 		<Item Name="Logging Cluster.ctl" Type="VI" URL="../Logging Cluster.ctl"/>
 		<Item Name="Target Logger States.ctl" Type="VI" URL="../Target Logger States.ctl"/>
 		<Item Name="Target Metadata Headers Array.ctl" Type="VI" URL="../Target Metadata Headers Array.ctl"/>
+		<Item Name="Target Timing and Logging Init Cluster.ctl" Type="VI" URL="../Target Timing and Logging Init Cluster.ctl"/>
 	</Item>
 	<Item Name="Variables" Type="Folder">
 		<Item Name="Target Data Logging Active" Type="Variable">
@@ -116,5 +117,6 @@ C:/TestLog</Property>
 		<Item Name="For Timed Loop" Type="Folder">
 			<Item Name="Target Logging Trigger Detection.vi" Type="VI" URL="../Target Logging Trigger Detection.vi"/>
 		</Item>
+		<Item Name="Target Initialize Loop Rates and Logger.vi" Type="VI" URL="../Target Initialize Loop Rates and Logger.vi"/>
 	</Item>
 </Library>
