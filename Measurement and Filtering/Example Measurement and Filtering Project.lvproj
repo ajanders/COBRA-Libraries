@@ -10,6 +10,7 @@
 	<Property Name="varPersistentID:{1D5AFAB2-FD6E-4161-8821-8F072E52920D}" Type="Ref">/NI-PXIe8880-2F1836AB/EtherCAT Master/Device2/Inputs-AIN.VALUE</Property>
 	<Property Name="varPersistentID:{1EA53241-51A3-4E2A-9C94-1638DB5A590B}" Type="Ref">/NI-PXIe8880-2F1836AB/Example Measurement Library.lvlib/Iteration Duration (us)</Property>
 	<Property Name="varPersistentID:{243B7E56-8533-4252-9A6A-CC4D029657ED}" Type="Ref">/NI-PXIe8880-2F1836AB/EtherCAT Master/Device/Inputs-Torque Actual Value</Property>
+	<Property Name="varPersistentID:{24C3B620-A958-41AA-AC2E-2F0765690F3B}" Type="Ref">/NI-PXIe8880-2F1836AB/COBRA Measurement and Filtering Library.lvlib/Encoder Correction Factor</Property>
 	<Property Name="varPersistentID:{29EB8623-1858-4212-A82E-92E914BC0F2C}" Type="Ref">/NI-PXIe8880-2F1836AB/EtherCAT Master/Device/Outputs-Control word</Property>
 	<Property Name="varPersistentID:{2C6480FA-9285-4AB5-A88B-8E231033782A}" Type="Ref">/NI-PXIe8880-2F1836AB/Example Measurement Library.lvlib/Target Stop</Property>
 	<Property Name="varPersistentID:{2DD46F10-025A-48CA-A4DF-5650B0FC461E}" Type="Ref">/NI-PXIe8880-2F1836AB/EtherCAT Master/Device2/Inputs-Following Error Actual Value</Property>

@@ -4,6 +4,18 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">402685952</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Item Name="Encoder Correction Factor" Type="Variable">
+		<Property Name="featurePacks" Type="Str">Global,Real-Time Features</Property>
+		<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
+		<Property Name="Network:UseBinding" Type="Str">False</Property>
+		<Property Name="Network:UseBuffering" Type="Str">False</Property>
+		<Property Name="numTypedefs" Type="UInt">0</Property>
+		<Property Name="Real-Time Features:ApplyNetworkConfig" Type="Str">False</Property>
+		<Property Name="Real-Time Features:BufferLength" Type="Str">1</Property>
+		<Property Name="Real-Time Features:UseBuffering" Type="Str">False</Property>
+		<Property Name="type" Type="Str">Global</Property>
+		<Property Name="typeDesc" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"A!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+	</Item>
 	<Item Name="PXI Zero Prosthesis Angle" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Global,Real-Time Features</Property>
 		<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
@@ -20,5 +32,6 @@
 	<Item Name="Target Analog Read PXIe 6363.vi" Type="VI" URL="../Target Analog Read PXIe 6363.vi"/>
 	<Item Name="Target Encoder Angle from Voltages.vi" Type="VI" URL="../Target Encoder Angle from Voltages.vi"/>
 	<Item Name="Target Load Cell Read TB 4330.vi" Type="VI" URL="../Target Load Cell Read TB 4330.vi"/>
+	<Item Name="Target Load Encoder Correction Factor.vi" Type="VI" URL="../Target Load Encoder Correction Factor.vi"/>
 	<Item Name="Target Raw Sensors Cluster.ctl" Type="VI" URL="../Target Raw Sensors Cluster.ctl"/>
 </Library>
