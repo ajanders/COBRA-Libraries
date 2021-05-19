@@ -4,6 +4,7 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">402685952</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Item Name="Host Linspace.vi" Type="VI" URL="../Host Linspace.vi"/>
 	<Item Name="Lever Arm Polynomial" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Global,Real-Time Features</Property>
 		<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
@@ -19,7 +20,10 @@
 		<Property Name="typeDesc" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!""01!!!"A!A!!!!!!#!!V!#A!(4H6N:8*J9Q!=1%!!!@````]!!!^"=H*B?3"P:C"%&lt;X6C&lt;'5!!1!"!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="Target Get Prosthesis Parameters.vi" Type="VI" URL="../Target Get Prosthesis Parameters.vi"/>
+	<Item Name="Target Load Prosthesis Polynomials.vi" Type="VI" URL="../Target Load Prosthesis Polynomials.vi"/>
 	<Item Name="Target Prosthesis Model.vi" Type="VI" URL="../Target Prosthesis Model.vi"/>
+	<Item Name="Target Write Lever Arm Polynomial to Disk.vi" Type="VI" URL="../Target Write Lever Arm Polynomial to Disk.vi"/>
+	<Item Name="Target Write Spring Polynomial to Disk.vi" Type="VI" URL="../Target Write Spring Polynomial to Disk.vi"/>
 	<Item Name="Torsion Spring Polynomial" Type="Variable">
 		<Property Name="featurePacks" Type="Str">Global,Real-Time Features</Property>
 		<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
