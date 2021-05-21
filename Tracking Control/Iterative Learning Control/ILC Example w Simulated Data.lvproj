@@ -1,17 +1,17 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="18008000">
 	<Property Name="SMProvider.SMVersion" Type="Int">201310</Property>
-	<Property Name="varPersistentID:{2667C8D5-6F59-4865-B4D5-FD3ADE5FA41C}" Type="Ref">/My Computer/Project Library.lvlib/Phase Table</Property>
+	<Property Name="varPersistentID:{2667C8D5-6F59-4865-B4D5-FD3ADE5FA41C}" Type="Ref">/My Computer/COBRA Iterative Learning Control Library.lvlib/Variables/Target Phase Table</Property>
 	<Property Name="varPersistentID:{396975DA-047E-402E-BA47-75AAD3D84E6E}" Type="Ref">/My Computer/Project Library.lvlib/Update Setpoint Table</Property>
 	<Property Name="varPersistentID:{4D75CE30-33F5-4C7C-8CD9-E6EB371CC88C}" Type="Ref">/My Computer/Project Library.lvlib/Phase (%)</Property>
-	<Property Name="varPersistentID:{59779683-7E63-489F-9B4B-6FD1BC445B7F}" Type="Ref">/My Computer/Project Library.lvlib/Setpoint Table</Property>
+	<Property Name="varPersistentID:{59779683-7E63-489F-9B4B-6FD1BC445B7F}" Type="Ref">/My Computer/Project Library.lvlib/Target Setpoint Table</Property>
 	<Property Name="varPersistentID:{73A46E5B-C9D1-4588-A479-CD0DB9A34466}" Type="Ref">/My Computer/Project Library.lvlib/State</Property>
-	<Property Name="varPersistentID:{8FAC48B3-258A-44C5-8FAC-79560436923C}" Type="Ref">/My Computer/Project Library.lvlib/Update Lookup Tables</Property>
+	<Property Name="varPersistentID:{8FAC48B3-258A-44C5-8FAC-79560436923C}" Type="Ref">/My Computer/COBRA Iterative Learning Control Library.lvlib/Variables/Target Update UFF Table</Property>
 	<Property Name="varPersistentID:{A120435E-2D1A-488A-9BD8-28BBD1D3566F}" Type="Ref">/My Computer/Project Library.lvlib/Velocity Setpoint</Property>
 	<Property Name="varPersistentID:{AF4462B2-1528-4B55-9FB0-039AAFEA6EF0}" Type="Ref">/My Computer/Project Library.lvlib/UFF</Property>
 	<Property Name="varPersistentID:{C3899073-A305-4A7E-8FAE-BCD7644BF996}" Type="Ref">/My Computer/External Libraries/COBRA Feedback Control Library.lvlib/Feedback Controller Gains</Property>
 	<Property Name="varPersistentID:{D1FA5830-05D2-4D18-9360-60DFB567DBEB}" Type="Ref">/My Computer/Project Library.lvlib/UFB</Property>
-	<Property Name="varPersistentID:{F7DB3B25-66D1-4603-A383-7AEF46A712ED}" Type="Ref">/My Computer/Project Library.lvlib/Feedforward Input Table</Property>
+	<Property Name="varPersistentID:{F7DB3B25-66D1-4603-A383-7AEF46A712ED}" Type="Ref">/My Computer/COBRA Iterative Learning Control Library.lvlib/Variables/Target Feedforward Input Table</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="IOScan.Faults" Type="Str"></Property>
 		<Property Name="IOScan.NetVarPeriod" Type="UInt">100</Property>
