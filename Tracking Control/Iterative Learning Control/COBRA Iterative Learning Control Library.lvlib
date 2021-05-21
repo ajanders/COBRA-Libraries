@@ -4,6 +4,9 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">402685952</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Item Name="Controls and Typedefs" Type="Folder">
+		<Item Name="Target Learning Gains.ctl" Type="VI" URL="../Target Learning Gains.ctl"/>
+	</Item>
 	<Item Name="Variables" Type="Folder">
 		<Item Name="Target Feedforward Input Table" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Global,Real-Time Features</Property>
@@ -46,14 +49,15 @@
 			<Property Name="typeDesc" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!B(1!!!"A!A!!!!!!"!!R!)1&gt;#&lt;W^M:7&amp;O!!%!!!!!!!!!!!!!!!</Property>
 		</Item>
 	</Item>
-	<Item Name="Target Align Errors.vi" Type="VI" URL="../Target Align Errors.vi"/>
-	<Item Name="Target FF Trajectory Manager.vi" Type="VI" URL="../Target FF Trajectory Manager.vi"/>
-	<Item Name="Target Learning Gains.ctl" Type="VI" URL="../Target Learning Gains.ctl"/>
-	<Item Name="Target Linspace.vi" Type="VI" URL="../Target Linspace.vi"/>
-	<Item Name="Target Lookup UFF Input.vi" Type="VI" URL="../Target Lookup UFF Input.vi"/>
-	<Item Name="Target LRN Controller.vi" Type="VI" URL="../Target LRN Controller.vi"/>
-	<Item Name="Target LRN Update.vi" Type="VI" URL="../Target LRN Update.vi"/>
-	<Item Name="Target Reset Running Trajectories.vi" Type="VI" URL="../Target Reset Running Trajectories.vi"/>
-	<Item Name="Target Step Counter.vi" Type="VI" URL="../Target Step Counter.vi"/>
-	<Item Name="Target Vector Shift.vi" Type="VI" URL="../Target Vector Shift.vi"/>
+	<Item Name="VIs" Type="Folder">
+		<Item Name="Target Align Errors.vi" Type="VI" URL="../Target Align Errors.vi"/>
+		<Item Name="Target FF Trajectory Manager.vi" Type="VI" URL="../Target FF Trajectory Manager.vi"/>
+		<Item Name="Target Linspace.vi" Type="VI" URL="../Target Linspace.vi"/>
+		<Item Name="Target Lookup UFF Input.vi" Type="VI" URL="../Target Lookup UFF Input.vi"/>
+		<Item Name="Target LRN Controller.vi" Type="VI" URL="../Target LRN Controller.vi"/>
+		<Item Name="Target LRN Update.vi" Type="VI" URL="../Target LRN Update.vi"/>
+		<Item Name="Target Reset Running Trajectories.vi" Type="VI" URL="../Target Reset Running Trajectories.vi"/>
+		<Item Name="Target Step Counter.vi" Type="VI" URL="../Target Step Counter.vi"/>
+		<Item Name="Target Vector Shift.vi" Type="VI" URL="../Target Vector Shift.vi"/>
+	</Item>
 </Library>
