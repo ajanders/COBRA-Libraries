@@ -31,6 +31,7 @@
 	</Item>
 	<Item Name="Target Analog Read PXIe 6363.vi" Type="VI" URL="../Target Analog Read PXIe 6363.vi"/>
 	<Item Name="Target Encoder Angle from Voltages.vi" Type="VI" URL="../Target Encoder Angle from Voltages.vi"/>
+	<Item Name="Target Load Cell Read TB 4330 Two Load Cells.vi" Type="VI" URL="../Target Load Cell Read TB 4330 Two Load Cells.vi"/>
 	<Item Name="Target Load Cell Read TB 4330.vi" Type="VI" URL="../Target Load Cell Read TB 4330.vi"/>
 	<Item Name="Target Load Encoder Correction Factor.vi" Type="VI" URL="../Target Load Encoder Correction Factor.vi"/>
 	<Item Name="Target Raw Sensors Cluster.ctl" Type="VI" URL="../Target Raw Sensors Cluster.ctl"/>

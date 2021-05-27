@@ -3,6 +3,7 @@
 	<Property Name="SMProvider.SMVersion" Type="Int">201310</Property>
 	<Property Name="varPersistentID:{2667C8D5-6F59-4865-B4D5-FD3ADE5FA41C}" Type="Ref">/My Computer/COBRA Iterative Learning Control Library.lvlib/Variables/Target Phase Table</Property>
 	<Property Name="varPersistentID:{396975DA-047E-402E-BA47-75AAD3D84E6E}" Type="Ref">/My Computer/Project Library.lvlib/Update Setpoint Table</Property>
+	<Property Name="varPersistentID:{43EEC4AF-4D04-477E-9109-EBD977445616}" Type="Ref">/My Computer/COBRA Iterative Learning Control Library.lvlib/Variables/LRN Gains</Property>
 	<Property Name="varPersistentID:{4D75CE30-33F5-4C7C-8CD9-E6EB371CC88C}" Type="Ref">/My Computer/Project Library.lvlib/Phase (%)</Property>
 	<Property Name="varPersistentID:{59779683-7E63-489F-9B4B-6FD1BC445B7F}" Type="Ref">/My Computer/Project Library.lvlib/Target Setpoint Table</Property>
 	<Property Name="varPersistentID:{73A46E5B-C9D1-4588-A479-CD0DB9A34466}" Type="Ref">/My Computer/Project Library.lvlib/State</Property>

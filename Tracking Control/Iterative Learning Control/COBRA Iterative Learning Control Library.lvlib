@@ -8,6 +8,20 @@
 		<Item Name="Target Learning Gains.ctl" Type="VI" URL="../Target Learning Gains.ctl"/>
 	</Item>
 	<Item Name="Variables" Type="Folder">
+		<Item Name="LRN Gains" Type="Variable">
+			<Property Name="featurePacks" Type="Str">Global,Real-Time Features</Property>
+			<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
+			<Property Name="Network:UseBinding" Type="Str">False</Property>
+			<Property Name="Network:UseBuffering" Type="Str">False</Property>
+			<Property Name="numTypedefs" Type="UInt">1</Property>
+			<Property Name="Real-Time Features:ApplyNetworkConfig" Type="Str">False</Property>
+			<Property Name="Real-Time Features:BufferLength" Type="Str">1</Property>
+			<Property Name="Real-Time Features:UseBuffering" Type="Str">False</Property>
+			<Property Name="type" Type="Str">Global</Property>
+			<Property Name="typedefName1" Type="Str">COBRA Iterative Learning Control Library.lvlib:Target Learning Gains.ctl</Property>
+			<Property Name="typedefPath1" Type="PathRel">../Target Learning Gains.ctl</Property>
+			<Property Name="typeDesc" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#UM!!!!"A!A!!!!!!%!!F!#A!#3UQ!!!N!#A!%1G6U91!!"U!$!!&amp;%!(%!]1!!!!!!!!!#,E.01F*")%FU:8*B&gt;'FW:3"-:7&amp;S&lt;GFO:S"$&lt;WZU=G^M)%RJ9H*B=HEO&lt;(:M;7):6'&amp;S:W6U)%RF98*O;7ZH)%&gt;B;7ZT,G.U&lt;!!A1&amp;!!!Q!!!!%!!AZ-:7&amp;S&lt;GFO:S"(97FO=Q!!!1!$!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+		</Item>
 		<Item Name="Target Feedforward Input Table" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Global,Real-Time Features</Property>
 			<Property Name="Global:EnableTimestamp" Type="Str">False</Property>

@@ -18,13 +18,14 @@
 	<Property Name="varPersistentID:{4CDF134F-1FD6-4178-90F5-9E25DE1DB8DA}" Type="Ref">/NI-PXIe8880-2F1836AB/EtherCAT Master/Device/Inputs-Status word</Property>
 	<Property Name="varPersistentID:{4DA375C4-26B7-4DDD-8445-CA857B06EA0D}" Type="Ref">/NI-PXIe8880-2F1836AB/EtherCAT Master/Device/Outputs-Digital Outputs</Property>
 	<Property Name="varPersistentID:{5B4372EA-017B-4B35-A3BB-509EC74B1DCC}" Type="Ref">/NI-PXIe8880-2F1836AB/EtherCAT Master/Device/Inputs-Second Position Feedback</Property>
-	<Property Name="varPersistentID:{6145891D-A034-4EE1-AC96-9EDDBF83E9B7}" Type="Ref">/NI-PXIe8880-2F1836AB/Example Measurement Library.lvlib/Force (N)</Property>
+	<Property Name="varPersistentID:{6145891D-A034-4EE1-AC96-9EDDBF83E9B7}" Type="Ref">/NI-PXIe8880-2F1836AB/Example Measurement Library.lvlib/Ankle Force (N)</Property>
 	<Property Name="varPersistentID:{6CE0DDE4-DA87-4CD2-A80D-403F7C5F1F51}" Type="Ref">/NI-PXIe8880-2F1836AB/EtherCAT Master/Device/Outputs-ClearDigInputChangedBit</Property>
 	<Property Name="varPersistentID:{6D9739A0-8E38-4456-97B2-E9C431CAB18D}" Type="Ref">/NI-PXIe8880-2F1836AB/EtherCAT Master/Device2/Outputs-Digital Outputs</Property>
 	<Property Name="varPersistentID:{6EA43AD3-AFBB-4675-9298-931E88320BB9}" Type="Ref">/NI-PXIe8880-2F1836AB/EtherCAT Master/Device/Inputs-Digital Inputs</Property>
 	<Property Name="varPersistentID:{70298AD9-BF35-4844-8A8D-38F3D1330085}" Type="Ref">/NI-PXIe8880-2F1836AB/EtherCAT Master/Device2/Outputs-Interpolation Data Record</Property>
 	<Property Name="varPersistentID:{772E9117-A6B2-4960-A510-6FCC039D8E64}" Type="Ref">/NI-PXIe8880-2F1836AB/EtherCAT Master/Device2/Outputs-Target torque</Property>
 	<Property Name="varPersistentID:{77E5DEEF-A617-4D30-B831-FA9B473B5E87}" Type="Ref">/NI-PXIe8880-2F1836AB/EtherCAT Master/Device/Outputs-Latch Control Word</Property>
+	<Property Name="varPersistentID:{7D5E4578-E45B-4CDD-89E0-51BB50E281CF}" Type="Ref">/NI-PXIe8880-2F1836AB/Example Measurement Library.lvlib/Knee Force (N)</Property>
 	<Property Name="varPersistentID:{920D49C8-D05A-4E70-B786-79960874B4F0}" Type="Ref">/NI-PXIe8880-2F1836AB/EtherCAT Master/Device2/Outputs-ClearDigInputChangedBit</Property>
 	<Property Name="varPersistentID:{9A9D535E-02AD-47E5-AECC-05E60E6D305E}" Type="Ref">/NI-PXIe8880-2F1836AB/EtherCAT Master/Device/Outputs-Target velocity</Property>
 	<Property Name="varPersistentID:{9AF53FA2-D255-4916-A73A-4373384C1AE4}" Type="Ref">/NI-PXIe8880-2F1836AB/EtherCAT Master/Device2/Inputs-Digital Inputs</Property>
