@@ -3,7 +3,7 @@
 	<Property Name="SMProvider.SMVersion" Type="Int">201310</Property>
 	<Property Name="varPersistentID:{00A80454-201E-476B-95CA-9CDBFA6D40AD}" Type="Ref">/NI-PXIe8880-2F1836AB/EtherCAT Master/Device/Outputs-Target torque</Property>
 	<Property Name="varPersistentID:{02C9F7C5-AD80-4E33-8123-0DAD0AE5E269}" Type="Ref">/NI-PXIe8880-2F1836AB/Example Measurement Library.lvlib/Encoder Angle (deg)</Property>
-	<Property Name="varPersistentID:{105194D1-8EB2-4484-8DAD-D2A14F7D3F63}" Type="Ref">/NI-PXIe8880-2F1836AB/COBRA Measurement and Filtering Library.lvlib/PXI Zero Prosthesis Angle</Property>
+	<Property Name="varPersistentID:{105194D1-8EB2-4484-8DAD-D2A14F7D3F63}" Type="Ref">/NI-PXIe8880-2F1836AB/COBRA Measurement and Filtering Library.lvlib/Ankle Prosthesis/Target Zero Prosthesis Angle</Property>
 	<Property Name="varPersistentID:{12390C96-E4B9-43CD-98F2-E94B7FBEB3DA}" Type="Ref">/NI-PXIe8880-2F1836AB/EtherCAT Master/Device2/Inputs-Latch Status</Property>
 	<Property Name="varPersistentID:{16BF0F59-7E7A-499F-B08A-9A8AF48B35B1}" Type="Ref">/NI-PXIe8880-2F1836AB/EtherCAT Master/Device/Inputs-AIN.VALUE</Property>
 	<Property Name="varPersistentID:{17FB6C24-7B0D-4A99-BFC0-6265A7537E9C}" Type="Ref">/NI-PXIe8880-2F1836AB/EtherCAT Master/Device/Inputs-Latch 1P</Property>
@@ -15,6 +15,7 @@
 	<Property Name="varPersistentID:{2C6480FA-9285-4AB5-A88B-8E231033782A}" Type="Ref">/NI-PXIe8880-2F1836AB/Example Measurement Library.lvlib/Target Stop</Property>
 	<Property Name="varPersistentID:{2DD46F10-025A-48CA-A4DF-5650B0FC461E}" Type="Ref">/NI-PXIe8880-2F1836AB/EtherCAT Master/Device2/Inputs-Following Error Actual Value</Property>
 	<Property Name="varPersistentID:{2EBF3C44-2051-435D-9A26-7C730D7C108A}" Type="Ref">/NI-PXIe8880-2F1836AB/EtherCAT Master/Device2/Inputs-Latch 1P</Property>
+	<Property Name="varPersistentID:{32FCB9AF-F5E6-4D14-BA0F-16F111A96C00}" Type="Ref">/NI-PXIe8880-2F1836AB/COBRA Measurement and Filtering Library.lvlib/Ankle Prosthesis/Target Zero Ankle Angle</Property>
 	<Property Name="varPersistentID:{4CDF134F-1FD6-4178-90F5-9E25DE1DB8DA}" Type="Ref">/NI-PXIe8880-2F1836AB/EtherCAT Master/Device/Inputs-Status word</Property>
 	<Property Name="varPersistentID:{4DA375C4-26B7-4DDD-8445-CA857B06EA0D}" Type="Ref">/NI-PXIe8880-2F1836AB/EtherCAT Master/Device/Outputs-Digital Outputs</Property>
 	<Property Name="varPersistentID:{5B4372EA-017B-4B35-A3BB-509EC74B1DCC}" Type="Ref">/NI-PXIe8880-2F1836AB/EtherCAT Master/Device/Inputs-Second Position Feedback</Property>
@@ -37,6 +38,7 @@
 	<Property Name="varPersistentID:{C3A610AE-76AF-4DDC-A0C4-40919773551F}" Type="Ref">/My Computer/Example Local Library.lvlib/Local Stop</Property>
 	<Property Name="varPersistentID:{CC54DD98-CF15-47E9-885E-E9F6C3D295C9}" Type="Ref">/NI-PXIe8880-2F1836AB/EtherCAT Master/Device2/Outputs-Target velocity</Property>
 	<Property Name="varPersistentID:{D77F5ECE-7E62-46A2-BB3D-DFFEBD733FA8}" Type="Ref">/NI-PXIe8880-2F1836AB/EtherCAT Master/Device/Inputs-Position Actual Internal Value</Property>
+	<Property Name="varPersistentID:{DDC1D40D-F72F-4197-80D7-0D04E78FCB94}" Type="Ref">/NI-PXIe8880-2F1836AB/COBRA Measurement and Filtering Library.lvlib/Ankle Prosthesis/Target Ankle Angle Offset</Property>
 	<Property Name="varPersistentID:{E0539293-3118-48EF-807E-BD2E8B6D650A}" Type="Ref">/NI-PXIe8880-2F1836AB/EtherCAT Master/Device2/Inputs-Position Actual Internal Value</Property>
 	<Property Name="varPersistentID:{E1CDC686-F77F-4C77-9089-16C32BAF5A2D}" Type="Ref">/NI-PXIe8880-2F1836AB/EtherCAT Master/Device/Inputs-Latch Status</Property>
 	<Property Name="varPersistentID:{E7AC64C2-ED26-4D7D-934D-9E4D5C1A3D82}" Type="Ref">/NI-PXIe8880-2F1836AB/EtherCAT Master/Device2/Inputs-Status word</Property>
