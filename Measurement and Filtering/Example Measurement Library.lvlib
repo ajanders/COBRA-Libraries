@@ -84,7 +84,7 @@
 		<Property Name="typeDesc" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!!J*1!!!"A!A!!!!!!"!!V!#A!'2'^V9GRF!!!"!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 	</Item>
 	<Item Name="Target Stop" Type="Variable">
-		<Property Name="featurePacks" Type="Str">Initial Value,Network,Real-Time Features</Property>
+		<Property Name="featurePacks" Type="Str">Network,Real-Time Features</Property>
 		<Property Name="Initial Value:Value" Type="Str">False</Property>
 		<Property Name="Network:BuffSize" Type="Str">50</Property>
 		<Property Name="Network:SingleWriter" Type="Str">False</Property>
