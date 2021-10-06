@@ -6,6 +6,7 @@
 	<Property Name="varPersistentID:{43EEC4AF-4D04-477E-9109-EBD977445616}" Type="Ref">/My Computer/COBRA Iterative Learning Control Library.lvlib/Variables/LRN Gains</Property>
 	<Property Name="varPersistentID:{4D75CE30-33F5-4C7C-8CD9-E6EB371CC88C}" Type="Ref">/My Computer/Project Library.lvlib/Phase (%)</Property>
 	<Property Name="varPersistentID:{59779683-7E63-489F-9B4B-6FD1BC445B7F}" Type="Ref">/My Computer/Project Library.lvlib/Target Setpoint Table</Property>
+	<Property Name="varPersistentID:{65F6BF79-B5BB-409B-A801-F2910FBDC7F3}" Type="Ref">/My Computer/COBRA Iterative Learning Control Library.lvlib/Variables/Learning Active</Property>
 	<Property Name="varPersistentID:{73A46E5B-C9D1-4588-A479-CD0DB9A34466}" Type="Ref">/My Computer/Project Library.lvlib/State</Property>
 	<Property Name="varPersistentID:{8FAC48B3-258A-44C5-8FAC-79560436923C}" Type="Ref">/My Computer/COBRA Iterative Learning Control Library.lvlib/Variables/Target Update UFF Table</Property>
 	<Property Name="varPersistentID:{A120435E-2D1A-488A-9BD8-28BBD1D3566F}" Type="Ref">/My Computer/Project Library.lvlib/Velocity Setpoint</Property>
