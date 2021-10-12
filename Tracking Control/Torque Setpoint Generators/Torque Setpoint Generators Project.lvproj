@@ -2,7 +2,7 @@
 <Project Type="Project" LVVersion="18008000">
 	<Property Name="SMProvider.SMVersion" Type="Int">201310</Property>
 	<Property Name="varPersistentID:{01501754-E965-49D3-A98C-4B03E63F6D1F}" Type="Ref">/My Computer/COBRA Torque Setpoint Generators Library.lvlib/Gaussian Torque Setpoint/Update Gaussian Lookup Table</Property>
-	<Property Name="varPersistentID:{29F12223-1EF2-4FE3-BB58-7B2C84926933}" Type="Ref">/My Computer/COBRA Torque Setpoint Generators Library.lvlib/Quasi-stiffness Setpoint/Stiffness Parameters</Property>
+	<Property Name="varPersistentID:{29F12223-1EF2-4FE3-BB58-7B2C84926933}" Type="Ref">/My Computer/COBRA Torque Setpoint Generators Library.lvlib/Quasi-stiffness Torque Setpoint/Stiffness Parameters</Property>
 	<Property Name="varPersistentID:{563F6B5C-934E-4E65-825F-4E1D01A7FC83}" Type="Ref">/My Computer/COBRA Torque Setpoint Generators Library.lvlib/Square Wave Torque Setpoint/Torque Square Wave Setpoint (Nm)</Property>
 	<Property Name="varPersistentID:{9B609200-8D65-4877-A93D-BE09E89E9E92}" Type="Ref">/My Computer/COBRA Torque Setpoint Generators Library.lvlib/Square Wave Torque Setpoint/Square Wave Phase Array (0-1)</Property>
 	<Property Name="varPersistentID:{C2F6E977-DD29-418A-8789-A0FF0B366E3D}" Type="Ref">/My Computer/COBRA Torque Setpoint Generators Library.lvlib/Square Wave Torque Setpoint/Update Square Wave Lookup Table</Property>
