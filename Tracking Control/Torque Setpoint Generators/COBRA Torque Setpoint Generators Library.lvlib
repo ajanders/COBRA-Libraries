@@ -40,6 +40,17 @@
 			<Property Name="typeDesc" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!""01!!!"A!A!!!!!!#!!V!#A!(4H6N:8*J9Q!=1%!!!@````]!!!^"=H*B?3"P:C"%&lt;X6C&lt;'5!!1!"!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="Host View Gaussian Trajectory.vi" Type="VI" URL="../Host View Gaussian Trajectory.vi"/>
+		<Item Name="Network Gaussian Torque Parameters" Type="Variable">
+			<Property Name="featurePacks" Type="Str">Network</Property>
+			<Property Name="Network:BuffSize" Type="Str">50</Property>
+			<Property Name="Network:UseBinding" Type="Str">False</Property>
+			<Property Name="Network:UseBuffering" Type="Str">True</Property>
+			<Property Name="numTypedefs" Type="UInt">1</Property>
+			<Property Name="type" Type="Str">Network</Property>
+			<Property Name="typedefName1" Type="Str">COBRA Torque Setpoint Generators Library.lvlib:Gaussian Torque Parameters.ctl</Property>
+			<Property Name="typedefPath1" Type="PathRel">../Gaussian Torque Parameters.ctl</Property>
+			<Property Name="typeDesc" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$LZQ!!!"A!A!!!!!!%!"&gt;!#A!15'6B;S"5&lt;X*R&gt;75A+%ZN+1!!&amp;5!+!!Z.;72Q&lt;WFO&gt;#!I-#UR+1!!&amp;5!+!!Z8;72U;#!I-#UQ,D)V+1!!@A$R!!!!!!!!!!)O1U^#5E%A6'^S=86F)&amp;.F&gt;("P;7ZU)%&gt;F&lt;G6S982P=H-A4'FC=G&amp;S?3ZM&gt;GRJ9BZ(986T=WFB&lt;C"5&lt;X*R&gt;75A5'&amp;S97VF&gt;'6S=SZD&gt;'Q!+%"1!!-!!!!"!!)86'^S=86F)%*V=H.U)&amp;"B=G&amp;N:82F=H-!!1!$!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+		</Item>
 		<Item Name="Target Generate Gaussian Torque Setpoint Trajectory.vi" Type="VI" URL="../Target Generate Gaussian Torque Setpoint Trajectory.vi"/>
 		<Item Name="Target Get Gaussian Torque Setpoint.vi" Type="VI" URL="../Target Get Gaussian Torque Setpoint.vi"/>
 		<Item Name="Update Gaussian Lookup Table" Type="Variable">
@@ -79,6 +90,20 @@
 	</Item>
 	<Item Name="Square Wave Torque Setpoint" Type="Folder">
 		<Item Name="Host View Square Wave Trajectory.vi" Type="VI" URL="../Host View Square Wave Trajectory.vi"/>
+		<Item Name="Network Square Wave Parameters" Type="Variable">
+			<Property Name="featurePacks" Type="Str">Network</Property>
+			<Property Name="Network:BuffSize" Type="Str">50</Property>
+			<Property Name="Network:ElemSize" Type="Str">1</Property>
+			<Property Name="Network:PointsPerWaveform" Type="Str">1</Property>
+			<Property Name="Network:SingleWriter" Type="Str">False</Property>
+			<Property Name="Network:UseBinding" Type="Str">False</Property>
+			<Property Name="Network:UseBuffering" Type="Str">True</Property>
+			<Property Name="numTypedefs" Type="UInt">1</Property>
+			<Property Name="type" Type="Str">Network</Property>
+			<Property Name="typedefName1" Type="Str">COBRA Torque Setpoint Generators Library.lvlib:Square Wave Torque Parameters.ctl</Property>
+			<Property Name="typedefPath1" Type="PathRel">../Square Wave Torque Parameters.ctl</Property>
+			<Property Name="typeDesc" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$IZ!!!!"A!A!!!!!!%!"&amp;!#A!,5X2B=H1A+$!N-3E!&amp;5!+!!Z%&gt;8*B&gt;'FP&lt;C!I-#UR+1!!$U!+!!F1:7&amp;L)#B/&lt;3E!BQ$R!!!!!!!!!!)O1U^#5E%A6'^S=86F)&amp;.F&gt;("P;7ZU)%&gt;F&lt;G6S982P=H-A4'FC=G&amp;S?3ZM&gt;GRJ9C&amp;4=86B=G5A6W&amp;W:3"5&lt;X*R&gt;75A5'&amp;S97VF&gt;'6S=SZD&gt;'Q!,E"1!!-!!!!"!!)&gt;6'^S=86F)&amp;.R&gt;7&amp;S:3"898:F)&amp;"B=G&amp;N:82F=H-!!1!$!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+		</Item>
 		<Item Name="Square Wave Phase Array (0-1)" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Global,Real-Time Features</Property>
 			<Property Name="Global:EnableTimestamp" Type="Str">False</Property>

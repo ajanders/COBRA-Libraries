@@ -23,6 +23,7 @@
 		<Item Name="LRN Gains" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Global,Real-Time Features</Property>
 			<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
+			<Property Name="Network:BuffSize" Type="Str">50</Property>
 			<Property Name="Network:UseBinding" Type="Str">False</Property>
 			<Property Name="Network:UseBuffering" Type="Str">False</Property>
 			<Property Name="numTypedefs" Type="UInt">1</Property>
@@ -32,11 +33,12 @@
 			<Property Name="type" Type="Str">Global</Property>
 			<Property Name="typedefName1" Type="Str">COBRA Iterative Learning Control Library.lvlib:Target Learning Gains.ctl</Property>
 			<Property Name="typedefPath1" Type="PathRel">../Target Learning Gains.ctl</Property>
-			<Property Name="typeDesc" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#UM!!!!"A!A!!!!!!%!!F!#A!#3UQ!!!N!#A!%1G6U91!!"U!$!!&amp;%!(%!]1!!!!!!!!!#,E.01F*")%FU:8*B&gt;'FW:3"-:7&amp;S&lt;GFO:S"$&lt;WZU=G^M)%RJ9H*B=HEO&lt;(:M;7):6'&amp;S:W6U)%RF98*O;7ZH)%&gt;B;7ZT,G.U&lt;!!A1&amp;!!!Q!!!!%!!AZ-:7&amp;S&lt;GFO:S"(97FO=Q!!!1!$!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+			<Property Name="typeDesc" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$KZA!!!"A!A!!!!!!'!!F!#A!#3UQ!!!N!#A!%1G6U91!!"U!$!!&amp;%!"&amp;!#A!,5X2B=H1A+$!N-3E!%5!+!!J4&gt;'^Q)#AQ,4%J!!"V!0%!!!!!!!!!!CZ$4U*313"*&gt;'6S982J&gt;G5A4'6B=GZJ&lt;G=A1W^O&gt;(*P&lt;#"-;7*S98*Z,GRW&lt;'FC'62B=G&gt;F&gt;#"-:7&amp;S&lt;GFO:S"(97FO=SZD&gt;'Q!*%"1!!5!!!!"!!)!!Q!%$ERF98*O;7ZH)%&gt;B;7ZT!!!"!!5!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
 		</Item>
 		<Item Name="Target Feedforward Input Table" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Global,Real-Time Features</Property>
 			<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
+			<Property Name="Network:BuffSize" Type="Str">50</Property>
 			<Property Name="Network:UseBinding" Type="Str">False</Property>
 			<Property Name="Network:UseBuffering" Type="Str">False</Property>
 			<Property Name="numTypedefs" Type="UInt">0</Property>
@@ -84,6 +86,6 @@
 		<Item Name="Target LRN Update.vi" Type="VI" URL="../Target LRN Update.vi"/>
 		<Item Name="Target Reset Running Trajectories.vi" Type="VI" URL="../Target Reset Running Trajectories.vi"/>
 		<Item Name="Target Step Counter.vi" Type="VI" URL="../Target Step Counter.vi"/>
-		<Item Name="Target Vector Shift.vi" Type="VI" URL="../Target Vector Shift.vi"/>
+		<Item Name="Target Vector Shift and Chop.vi" Type="VI" URL="../Target Vector Shift and Chop.vi"/>
 	</Item>
 </Library>
