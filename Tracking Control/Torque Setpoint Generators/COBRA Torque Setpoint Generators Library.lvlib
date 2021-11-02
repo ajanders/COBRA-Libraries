@@ -4,6 +4,49 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">402685952</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">false</Property>
+	<Item Name="Collins&apos; Spline Torque Generators" Type="Folder">
+		<Item Name="Network Spline Torque Parameters" Type="Variable">
+			<Property Name="featurePacks" Type="Str">Network</Property>
+			<Property Name="Network:SingleWriter" Type="Str">False</Property>
+			<Property Name="Network:UseBinding" Type="Str">False</Property>
+			<Property Name="Network:UseBuffering" Type="Str">False</Property>
+			<Property Name="numTypedefs" Type="UInt">1</Property>
+			<Property Name="type" Type="Str">Network</Property>
+			<Property Name="typedefName1" Type="Str">COBRA Torque Setpoint Generators Library.lvlib:Target Spline Torque Parameters.ctl</Property>
+			<Property Name="typedefPath1" Type="PathRel">../Target Spline Torque Parameters.ctl</Property>
+			<Property Name="typeDesc" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%J*1%!!"A!A!!!!!!&amp;!"&gt;!#A!15'6B;S"5&lt;X*R&gt;75A+%ZN+1!!(5!+!":1:7&amp;L)&amp;2P=H&amp;V:3"5;7VF)#AQ,4%J!!!&gt;1!I!&amp;F*J=W5A6'FN:3"%&gt;8*B&gt;'FP&lt;C!I*3E!!"V!#A!72G&amp;M&lt;#"5;7VF)%2V=G&amp;U;7^O)#AF+1!!BQ$R!!!!!!!!!!)O1U^#5E%A6'^S=86F)&amp;.F&gt;("P;7ZU)%&gt;F&lt;G6S982P=H-A4'FC=G&amp;S?3ZM&gt;GRJ9C.598*H:81A5X"M;7ZF)&amp;2P=H&amp;V:3"198*B&lt;76U:8*T,G.U&lt;!!M1&amp;!!"!!!!!%!!A!$'&amp;.Q&lt;'FO:3"5&lt;X*R&gt;75A5'&amp;S97VF&gt;'6S=Q!!!1!%!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+		</Item>
+		<Item Name="Spline Torque Generator.vi" Type="VI" URL="../Spline Torque Generator.vi"/>
+		<Item Name="Target Spline Parameters" Type="Variable">
+			<Property Name="featurePacks" Type="Str">Global,Real-Time Features</Property>
+			<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
+			<Property Name="Network:UseBinding" Type="Str">False</Property>
+			<Property Name="Network:UseBuffering" Type="Str">False</Property>
+			<Property Name="numTypedefs" Type="UInt">1</Property>
+			<Property Name="Real-Time Features:ApplyNetworkConfig" Type="Str">False</Property>
+			<Property Name="Real-Time Features:BufferLength" Type="Str">1</Property>
+			<Property Name="Real-Time Features:UseBuffering" Type="Str">False</Property>
+			<Property Name="type" Type="Str">Global</Property>
+			<Property Name="typedefName1" Type="Str">COBRA Torque Setpoint Generators Library.lvlib:Target Spline Torque Parameters.ctl</Property>
+			<Property Name="typedefPath1" Type="PathRel">../Target Spline Torque Parameters.ctl</Property>
+			<Property Name="typeDesc" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%J*1%!!"A!A!!!!!!&amp;!"&gt;!#A!15'6B;S"5&lt;X*R&gt;75A+%ZN+1!!(5!+!":1:7&amp;L)&amp;2P=H&amp;V:3"5;7VF)#AQ,4%J!!!&gt;1!I!&amp;F*J=W5A6'FN:3"%&gt;8*B&gt;'FP&lt;C!I*3E!!"V!#A!72G&amp;M&lt;#"5;7VF)%2V=G&amp;U;7^O)#AF+1!!BQ$R!!!!!!!!!!)O1U^#5E%A6'^S=86F)&amp;.F&gt;("P;7ZU)%&gt;F&lt;G6S982P=H-A4'FC=G&amp;S?3ZM&gt;GRJ9C.598*H:81A5X"M;7ZF)&amp;2P=H&amp;V:3"198*B&lt;76U:8*T,G.U&lt;!!M1&amp;!!"!!!!!%!!A!$'&amp;.Q&lt;'FO:3"5&lt;X*R&gt;75A5'&amp;S97VF&gt;'6S=Q!!!1!%!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</Property>
+		</Item>
+		<Item Name="Target Spline Torque" Type="Variable">
+			<Property Name="featurePacks" Type="Str">Global,Real-Time Features</Property>
+			<Property Name="Global:EnableTimestamp" Type="Str">False</Property>
+			<Property Name="Network:UseBinding" Type="Str">False</Property>
+			<Property Name="Network:UseBuffering" Type="Str">False</Property>
+			<Property Name="numTypedefs" Type="UInt">0</Property>
+			<Property Name="Real-Time Features:ApplyNetworkConfig" Type="Str">False</Property>
+			<Property Name="Real-Time Features:ArrayLength" Type="Str">1000</Property>
+			<Property Name="Real-Time Features:BufferLength" Type="Str">1</Property>
+			<Property Name="Real-Time Features:DatapointsInWaveform" Type="Str">1</Property>
+			<Property Name="Real-Time Features:UseBuffering" Type="Str">False</Property>
+			<Property Name="type" Type="Str">Global</Property>
+			<Property Name="typeDesc" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!""01!!!"A!A!!!!!!#!!V!#A!(4H6N:8*J9Q!=1%!!!@````]!!!^"=H*B?3"P:C"%&lt;X6C&lt;'5!!1!"!!!!!!!!!!!!!!!!</Property>
+		</Item>
+		<Item Name="Target Spline Torque Parameters.ctl" Type="VI" URL="../Target Spline Torque Parameters.ctl"/>
+	</Item>
 	<Item Name="Gaussian Torque Setpoint" Type="Folder">
 		<Item Name="Gaussian Torque Array (Nm)" Type="Variable">
 			<Property Name="featurePacks" Type="Str">Global,Real-Time Features</Property>
